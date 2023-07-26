@@ -1,1 +1,1 @@
-Use command line.
+Use command line git.
